@@ -67,7 +67,7 @@ export default function Home() {
                         </h1>
 
                         <p>
-                            Sou fotografo com 4 anos de experiência, tiro fotos de pre wading, casamentos, pré missão, familiares e eventos corpotativos.
+                            Sou fotógrafo com 4 anos de experiência, tiro fotos de pré-wedding, casamentos, pré missão, familiares e eventos corpotativos.
                         </p>
                     </motion.div>
 

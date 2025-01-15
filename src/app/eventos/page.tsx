@@ -30,11 +30,11 @@ export default function Contato() {
                     >
 
                         <h1>
-                            Pré-wedding
+                            Eventos
                         </h1>
 
                         <p>
-                            Essas são as minhas fotos de pré wedding, sessão de fotos que é tradicionalmente tira antes de casamento.
+                            Essas são as minhas fotos de eventos, os eventos incluem festa de aniversario e outras festas.
                         </p>
                     </motion.div>
 

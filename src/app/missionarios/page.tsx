@@ -204,16 +204,7 @@ export default function Contato() {
                         priority={true}
                         quality={100}
                     />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/missionarios17.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-
+                    
 
 
 
