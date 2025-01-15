@@ -62,189 +62,6 @@ export default function Contato() {
                     <Image
                         alt="Logo Sujeito Pizza"
 
-                        src={"/casais01.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais02.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais03.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais04.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais05.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais06.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais07.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais08.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais09.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais10.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais11.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais12.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais13.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais14.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais15.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais16.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais17.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais18.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais19.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
-                        src={"/casais20.jpg"}
-                        width={700}
-                        height={420}
-                        priority={true}
-                        quality={100}
-                    />
-
-                    <Image
-                        alt="Logo Sujeito Pizza"
-
                         src={"/casais21.jpg"}
                         width={700}
                         height={420}
@@ -486,6 +303,189 @@ export default function Contato() {
                         alt="Logo Sujeito Pizza"
 
                         src={"/casais47.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+
+<Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais01.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais02.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais03.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais04.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais05.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais06.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais07.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais08.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais09.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais10.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais11.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais12.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais13.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais14.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais15.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais16.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais17.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais18.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais19.jpg"}
+                        width={700}
+                        height={420}
+                        priority={true}
+                        quality={100}
+                    />
+                    <Image
+                        alt="Logo Sujeito Pizza"
+
+                        src={"/casais20.jpg"}
                         width={700}
                         height={420}
                         priority={true}
