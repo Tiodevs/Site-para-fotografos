@@ -47,7 +47,7 @@ export default function Contato() {
                     >
 
                         <Link href="/">
-                            <p className={styles.headeremail}>Voltar para home -></p>
+                            <p className={styles.headeremail}>Voltar para home</p>
                         </Link>
                     </motion.div>
                 </section>
